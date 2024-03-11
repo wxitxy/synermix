@@ -2,7 +2,7 @@ This is a source code for the manuscript titled "Improving Image Classification 
   
 To use the code, follow these steps:  
 1. Install the required dependencies by running `pip install -r requirements.txt`.  
-2. Execute `main.py`. The results and model files will be generated in the respective `logs` and `models` folders. The six methods mentioned in the paper, namely wo-RA&ER, w-RA, w-ER(M), w-ER(MM), w-RA&ER(M), and w-RA&ER(MM), can be run as follows, using the CIFAR-100 dataset as an example:  
+2. Execute `main.py`. The results and model files will be stored in the respective `logs` and `models` folders. The six methods mentioned in the paper, namely wo-RA&ER, w-RA, w-ER(M), w-ER(MM), w-RA&ER(M), and w-RA&ER(MM), can be run as follows, using the CIFAR-100 dataset as an example:  
    - wo-RA&ER: `python main.py -mn resnet-18 -ds cifar100 -bs 128`  
    - w-RA: `python main.py -mn resnet18 -ds cifar100 -bs 128 -beta 0.5 -phase test`  
    - w-ER(M): `python main.py -mn resnet18 -ds cifar100 -bs 128 -alpha 1 -itrm Mixup -phase test`  
