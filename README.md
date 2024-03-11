@@ -12,7 +12,7 @@ w-RA&ER(MM)：python main.py -mn resnet18 -ds cifar100 -bs 128 -alpha 1 -beta 0.
 代码通过追加-mp true实现混合精度训练，以减少计算成本，如:  
 python main.py -mn resnet18 -ds cifar100 -bs 128 -beta 0.5 -mp True  
   
-参数详情：
+参数详情：  
 1.-mn           Model Name (default: resnet18, options：resnet18, resnet34, resnet50, resnet101, mobilenet, tiny-swin)  
 2.-ds           Dataset Name (default：cifar100, options: food101, miniimagenet, oxfordiiipet, caltech256)  
 3.-pr           Using a Pre-trained Model or Not (default: False)  
