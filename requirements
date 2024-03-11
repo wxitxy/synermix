@@ -1,0 +1,6 @@
+MLclf==0.2.14
+numpy==1.23.5
+Pillow==9.4.0
+scikit_learn==1.2.1
+torch==2.0.0
+torchvision==0.15.1
