@@ -1,4 +1,4 @@
-This is a source code for the manuscript titled "Improving Image Classification Accuracy through Intra-Class Mixup and Inter-Class Mixup". The manuscript has been submitted to the Neurocomputing journal.  
+This is a source code for the manuscript titled "Improving Image Classification Accuracy through Complementary Intra-Class Mixup and Inter-Class Mixup". The manuscript has been submitted to the Neurocomputing journal.  
   
 To use the code, follow these steps:  
 1. Install the required dependencies by running `pip install -r requirements.txt`.  
