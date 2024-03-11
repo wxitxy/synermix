@@ -15,7 +15,7 @@ parser.add_argument('-mo', '--momentum', type=float, default=0.9, help='Momentum
 parser.add_argument('-wd', '--weight_decay', type=float, default=5e-4, help='Weight Decay (default: 5e-4)')
 parser.add_argument('-ss', '--step_size', type=int, default=10, help='Step Size for Learning Rate Decay (default: 10)')
 parser.add_argument('-ga', '--gamma', type=float, default=0.5, help='Gamma for Learning Rate Decay (default: 0.5)')
-parser.add_argument('-seed', '--seed', type=int, default=123, help='Random Seed (default: 10)')
+parser.add_argument('-seed', '--seed', type=int, default=123, help='Random Seed (default: 123)')
 parser.add_argument('-ep', '--epochs', type=int, default=120, help='Total Number of Epochs (default: 120)')
 parser.add_argument('-ne', '--nesterov', type=bool, default=False, help='Using Nesterov or Not (default: False)')
 parser.add_argument('-phase', '--phase', type=str, default='test', help='Testing or Validation (default：test, options: test, val)')
