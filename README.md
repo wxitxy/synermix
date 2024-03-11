@@ -14,7 +14,7 @@
 python main.py -mn resnet18 -ds cifar100 -bs 128 -beta 0.5 -mp True  
   
 参数详情：  
-1. -mn:           Model Name (default: resnet18, options：resnet18, resnet34, resnet50, resnet101, mobilenet, tiny-swin)  
+1. <span style="color: red;">-mn</span>:           Model Name (default: resnet18, options：resnet18, resnet34, resnet50, resnet101, mobilenet, tiny-swin)  
 2. -ds:           Dataset Name (default：cifar100, options: food101, miniimagenet, oxfordiiipet, caltech256)  
 3. -pr:           Using a Pre-trained Model or Not (default: False)  
 4. -bs:           Batch Size (default: 128)  
