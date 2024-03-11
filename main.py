@@ -1,3 +1,7 @@
+# Copyright information
+# Author: Ye Xu, Ya Gao, Xiaorong Qiu, Yang Chen, Ying Ji
+# Affiliation: School of IoT Engineering, Wuxi Institute of Technology
+
 import argparse, os
 
 parser = argparse.ArgumentParser(description='reading the parameters required for training the model.')
