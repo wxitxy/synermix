@@ -1,4 +1,4 @@
-This is a source code for the manuscript titled "Improving Image Classification Accuracy through Complementary Intra-Class Mixup and Inter-Class Mixup". The manuscript has been submitted to ArXiv https://arxiv.org/abs/2403.14137.  
+This is a source code for the manuscript titled "SynerMix: Synergistic Mixup Solution for Enhanced Intra-Class Cohesion and Inter-Class Separability in Image Classification". The manuscript has been submitted to ArXiv https://arxiv.org/abs/2403.14137.  
   
 To use the code, follow these steps:  
 1. Install the required dependencies by running `pip install -r requirements.txt`.  
