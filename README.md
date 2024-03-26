@@ -1,6 +1,5 @@
 This is a source code for the manuscript titled "SynerMix: Synergistic Mixup Solution for Enhanced Intra-Class Cohesion and Inter-Class Separability in Image Classification". The manuscript has been submitted to ArXiv https://arxiv.org/abs/2403.14137.  
-
-![fig0](https://github.com/wxitxy/synermix/assets/129836406/2612998e-cb64-438f-99d8-d4ef5c77f1fc)
+![GRAPH_ABSTRACT](https://github.com/wxitxy/synermix/assets/129836406/19ae0685-5a2f-46fc-b6ff-7b7874309f60)
 
   
 To use the code, follow these steps:  
